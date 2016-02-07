@@ -1,0 +1,51 @@
+---
+---
+@charset "utf-8";
+
+$background-color: #191c1c;
+$text-color: #fff;
+$heading-color: #f8b14d;         // dark yellow
+$footer-color: lighten($background-color, 30%);
+
+
+$link-color: #f8b14d;           // dark yellow
+// old greenish color #42dca3
+$link-hover-color: lighten($link-color, 15%);
+// old hover: #1d9b6c
+
+// darker than background: #171A1A
+// shade 1 #1C2020
+// shade 2 #212525
+//
+
+$base-font-size:   16px;
+$base-font-weight: 400;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+$button-font-weight: 500;
+
+
+$heading-font-weight: 400;
+
+$base-font-family: "Merriweather", "Helvetica Neue", Helvetica, Arial, sans-serif;
+// Merriweather,"Helvetica Neue",Helvetica,Arial,sans-serif;
+
+$heading-font-family: "Oswald", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$button-font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+$nav-background-color: rgba(23, 26, 26, 0.9);
+$nav-font-family: "Oswald", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+$nav-brand-color: #fff;
+$nav-brand-font-size: 28px;
+
+$projects-caption-muted-text-color: lighten($background-color, 30%);
+$projects-caption-background-color: #1C2020;
+$projects-hover-color: rgba(248,177,77, 0.8);
+
+// Import partials from `_sass`
+@import
+    "base",
+    "navbar",
+    "intro",
+    "projects";

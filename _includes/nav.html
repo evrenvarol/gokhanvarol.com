@@ -1,0 +1,42 @@
+<!-- Navigation -->
+<nav id="mainNav" class="navbar navbar-custom navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                <i class="fa fa-bars"></i>
+            </button>
+            <a class="navbar-brand page-scroll" href="/{{ page.lang }}/#page-top">Gökhan Varol</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+            <ul class="nav navbar-nav">
+                <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                <li class="hidden">
+                    <a href="#page-top"></a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="/{{ page.lang }}/#about">{{site.translations.[page.lang].nav-about}}</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="/{{ page.lang }}/projects">{{site.translations.[page.lang].nav-projects}}</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="/{{ page.lang }}/#contact">{{site.translations.[page.lang].nav-contact}}</a>
+                </li>
+                {% for item in site.languages %}
+                    {% if page.lang != item.key %}
+                        {% assign posts=site.posts | where:"lang", item.key | where:"date", page.date %}
+                        {% if posts[0].url %}
+                            <li><a href="{{ site.baseurl }}{{posts[0].url}}"><i class="fa fa-flag-o"></i> {{ item.name }}</a></li>
+                        {% else %}
+                            <li><a href="{{ site.baseurl }}/{{ item.key }}"><i class="fa fa-flag-o"></i> {{ item.name }}</a></li>
+                        {% endif %}
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container -->
+</nav>

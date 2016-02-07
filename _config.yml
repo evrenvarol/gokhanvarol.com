@@ -1,0 +1,57 @@
+# Site settings
+title: Gökhan Varol
+email: info@gokhanvarol.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "/gokhanvarol.com"       # the subpath of your site, e.g. /blog
+url: "http://gokhanvarol.com"     # the base hostname & protocol for your site
+
+# dont include github readme
+# exclude: ['README.md']
+exclude:
+  - CNAME
+  - license.md
+  - README.md
+
+# include pages
+include: ['_pages']
+
+languages:
+  - name: 'TÜRKÇE'
+    key: 'tr'
+  - name: 'ENGLISH'
+    key: 'en'
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/gokhan_varol
+  - title: facebook
+    url: https://facebook.com/gokhan_varol
+  - title: youtube
+    url: https://youtube.com/gokhan_varol
+  - title: soundcloud
+    url: http://soundcloud/gokhan_varol
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title
+
+# Sass settings
+sass:
+    style: compressed
+
+# Main site translations
+translations:
+    tr:
+        nav-about: 'Hakkında'
+        nav-projects: 'ÇALIŞMALAR'
+        nav-contact: 'İLETİŞİM'
+        date: 'Tarih'
+    en:
+        nav-about: 'About'
+        nav-projects: 'Projects'
+        nav-contact: 'Contact'
+        date: 'Date'

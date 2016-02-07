@@ -1,0 +1,75 @@
+---
+layout: default
+---
+{% include nav.html %}
+
+<article class="container page-content">
+
+  <header class="col-lg-12">
+    <h2 class="post-title">{{ page.title }}</h2>
+  </header>
+
+  <div class="col-md-8">
+    <div class="small">
+        <span class="meta-date"><i class="fa fa-calendar"></i> {{ page.date | date: "%d/%m/%Y" }}</span>
+        <span class="meta-tags"><i class="fa fa-tags"></i>
+          {% for tag in page.tags %}
+            <a href="/{{ page.lang }}/tags#{{ tag }}">{{ tag }}</a>{% if forloop.last == false %}, {% endif %}
+          {% endfor %}
+        </span>
+    </div>
+    {{ content }}
+  </div>
+
+  <aside class="col-md-4 text-center">
+      <h4>INFO</h4>
+
+      {% if page.discogs %}
+        <p><a href="{{ page.discogs }}" target="_blank" class="btn btn-default btn-lg">discogs</a></p>
+      {% endif %}
+
+      {% if page.itunes %}
+        <h4>BUY</h4>
+        <p><a href="{{ page.itunes }}" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-apple fa-fw"></i>itunes</a></p>
+      {% endif %}
+
+      {% if page.spotify or page.deezer %}
+        <h4>LISTEN</h4>
+        {% if page.spotify %}
+          <p><a href="{{ page.spotify }}" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-spotify fa-fw"></i>spotify</a></p>
+        {% endif %}
+
+        {% if page.deezer %}
+          <p><a href="{{ page.deezer }}" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-align-left fa-fw fa-rotate-270"></i>deezer</a></p>
+        {% endif %}
+      {% endif %}
+
+      <h4>Share</h4>
+
+      <a class="btn btn-circle" href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ url }}&via=gokhan_varol&hashtags={{ tagStr }}" target="_blank" title="Share this post on Twitter"><i class="fa fa-twitter fa-fw"></i></a>
+      <a class="btn btn-circle" href="https://www.facebook.com/sharer/sharer.php?t={{ page.title }}&u={{ url }}" target="_blank" title="Share this post on Facebook"><i class="fa fa-facebook fa-fw"></i></a>
+      <a class="btn btn-circle" href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" target="_blank" title="Share this post on Google Plus"><i class="fa fa-google fa-fw"></i></a>
+
+  </aside>
+
+</article>
+
+{% if page.comments %}
+    <div id="disqus_thread" class="container"></div>
+    <script>
+        var disqus_config = function () {
+            this.page.url = "{{ site.url }}{{ page.url }}";  // Replace PAGE_URL with your page's canonical URL variable
+            this.page.identifier = "{{ page.url }}"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+            this.page.title = "{{ page.title }} ({{ page.lang }})";
+            this.language = "{{ page.lang }}";
+        };
+
+        (function() {  // DON'T EDIT BELOW THIS LINE
+            var d = document, s = d.createElement('script');
+            s.src = '//gokhanvarol.disqus.com/embed.js';
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+{% endif %}
