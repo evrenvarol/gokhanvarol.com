@@ -5,15 +5,13 @@
 <head>
     <meta http-equiv='content-type' content='text/html; charset=utf-8' />
     <script>
-        $(document).ready(function(){
             var userLang = navigator.language || navigator.userLanguage;
             if (userLang == "tr") {
                 window.location.href = "{{site.baseurl}}/tr/";
             }
             else {
-                window.location.href = "{{site.baseurl}}/en/"
+                window.location.href = "{{site.baseurl}}/en/";
             }
-        });
   </script>
 </head>
 </html>
