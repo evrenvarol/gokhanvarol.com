@@ -15,6 +15,10 @@ exclude:
   - license.md
   - README.md
 
+# plugins
+gems:
+  - jekyll-sitemap
+
 # include pages
 include: ['_pages']
 
