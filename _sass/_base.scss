@@ -260,21 +260,18 @@ body {
 }
 
 /* Font-awesome - adblock hack */
-.ev-fa-twitter:before {
+.ev-tw:before {
   content: "\f099";
 }
-.ev-fa-facebook:before {
+.ev-fb:before {
   content: "\f09a";
 }
-.ev-fa-google-plus:before {
-  content: "\f0d5";
-}
-.ev-fa-google:before {
+.ev-gl:before {
   content: "\f1a0";
 }
-.ev-fa-youtube:before {
+.ev-yt:before {
   content: "\f167";
 }
-.ev-fa-instagram:before {
+.ev-ins:before {
   content: "\f16d";
 }
