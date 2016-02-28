@@ -4,7 +4,7 @@ categories:
  - en
  - project
 lang: en
-title: Onur Sarim
+title: Onur Sarim - En Yakin Dostum
 img: onur-sarim-en-yakin-dostum_thumb.jpg
 thumb: onur-sarim-en-yakin-dostum_thumb.jpg
 itunes: https://itunes.apple.com/tr/album/en-yak-n-dostum-single/id943791309
