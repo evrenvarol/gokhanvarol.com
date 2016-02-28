@@ -2,6 +2,7 @@
 layout: home
 lang: en
 permalink: /en/
+description: "Gokhan Varol's Official Website"
 translations:
     en:
         intro-text: 'Pianist - Composer - Arranger'

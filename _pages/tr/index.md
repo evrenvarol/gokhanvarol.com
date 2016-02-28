@@ -2,6 +2,7 @@
 layout: home
 lang: tr
 permalink: /tr/
+description: "Gökhan Varol'un Resmi Sitesi"
 translations:
     tr:
         intro-text: 'Piyanist - Besteci - Aranjör'
