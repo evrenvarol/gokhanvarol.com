@@ -1,10 +1,7 @@
 # Site settings
 title: Gökhan Varol
 email: info@gokhanvarol.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+#description: "Gökhan Varol - Pianist, Composer, Arranger"
 baseurl: ""       # the subpath of your site, e.g. /blog
 url: "http://gokhanvarol.com"     # the base hostname & protocol for your site
 
@@ -50,11 +47,13 @@ sass:
 # Main site translations
 translations:
     tr:
+        site-desc: "Gökhan Varol'un Resmi Sitesi"
         nav-about: 'Hakkında'
         nav-projects: 'ÇALIŞMALAR'
         nav-contact: 'İLETİŞİM'
         date: 'Tarih'
     en:
+        site-desc: "Gokhan Varol's Official Website"
         nav-about: 'About'
         nav-projects: 'Projects'
         nav-contact: 'Contact'
