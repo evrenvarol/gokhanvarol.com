@@ -4,8 +4,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    {% if page.url == "/" or page.url == "/about/" %}
-        {% assign seo_homepage_or_about = true %}
+    {% if page.url == "/en/" or page.url == "/tr/" %}
+        {% assign seo_homepage = true %}
     {% endif %}
     {% assign seo_name = site.title %}
 
@@ -48,7 +48,7 @@
     <!-- open graph -->
 
     <meta property="og:site_name" content="{{ site.title }}">
-    {% if seo_homepage_or_about %}
+    {% if seo_homepage %}
         <meta property="og:type" content="website">
         <meta property="og:title" content="{{ seo_site_title }}">
     {% else %}
@@ -105,7 +105,7 @@
     <script type="application/ld+json">
         {
             "@context" : "http://schema.org",
-            {% if seo_homepage_or_about %} "@type" : "WebSite", {% else %} "@type" : "WebPage", {% endif %}
+            {% if seo_homepage %} "@type" : "WebSite", {% else %} "@type" : "WebPage", {% endif %}
             {% if seo_name %} "name" : {{ seo_name | jsonify }}, {% endif %}
             {% if seo_page_title %} "headline": {{ seo_page_title | jsonify }}, {% endif %}
             {% if page.img %} "image": {{ page.img | jsonify }}, {% endif %}
