@@ -1,7 +1,15 @@
 # Site settings
 title: Gökhan Varol
 email: info@gokhanvarol.com
-#description: "Gökhan Varol - Pianist, Composer, Arranger"
+location:
+  city: Istanbul
+  country: Turkey
+job_title: "Pianist, Composer, Arranger"
+author:
+  twitter: gokhan_varol
+  google_plus: 107015095174650081571
+logo: logo.png
+
 baseurl: ""       # the subpath of your site, e.g. /blog
 url: "http://gokhanvarol.com"     # the base hostname & protocol for your site
 
@@ -34,7 +42,21 @@ social:
   - title: youtube
     url: https://youtube.com/gokhan_varol
   - title: soundcloud
-    url: http://soundcloud/gokhan_varol
+    url: https://soundcloud/gokhan_varol
+  - title: google-plus
+    url: https://plus.google.com/107015095174650081571
+
+# Social metadata (JSON-LD)
+socialmeta:
+  name: Gökhan Varol
+  links:
+    - https://twitter.com/gokhan_varol
+    - https://facebook.com/gokhan_varol
+    - https://youtube.com/gokhan_varol
+    - https://plus.google.com/107015095174650081571
+    - https://soundcloud/gokhan_varol
+    - https://www.instagram.com/gokhan_varol/
+
 
 # Build settings
 markdown: kramdown
@@ -47,13 +69,11 @@ sass:
 # Main site translations
 translations:
     tr:
-        site-desc: "Gökhan Varol'un Resmi Sitesi"
         nav-about: 'Hakkında'
         nav-projects: 'ÇALIŞMALAR'
         nav-contact: 'İLETİŞİM'
         date: 'Tarih'
     en:
-        site-desc: "Gokhan Varol's Official Website"
         nav-about: 'About'
         nav-projects: 'Projects'
         nav-contact: 'Contact'
