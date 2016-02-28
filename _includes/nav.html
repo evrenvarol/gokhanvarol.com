@@ -40,3 +40,12 @@
     </div>
     <!-- /.container -->
 </nav>
+
+<meta itemprop="url" content="{{ site.url }}" />
+<meta itemprop="title" content="{{ site.job_title }}" />
+<!--<meta itemprop="photo" content="http://www.gravatar.com/avatar/{{ site.gravatar_id }}.png" />-->
+<span itemprop="address" itemscope itemtype="http://data-vocabulary.org/Address">
+    <meta itemprop="locality" content="{{ site.location.city }}" />
+    <meta itemprop="country-name" content="{{ site.location.country }}" />
+    <a href="https://plus.google.com/+{{ site.author.google_plus }}" rel="publisher" class="hidden">{{ site.title }}</a>
+</span>
