@@ -12,7 +12,7 @@ author:
 logo: logo.png
 
 baseurl: ""       # the subpath of your site, e.g. /blog
-url: "http://gokhanvarol.com"     # the base hostname & protocol for your site
+url: "https://gokhanvarol.com"     # the base hostname & protocol for your site
 
 # dont include github readme
 # exclude: ['README.md']
