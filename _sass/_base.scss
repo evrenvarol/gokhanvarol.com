@@ -190,6 +190,10 @@ a.list-group-item:hover, a.list-group-item:focus {
     transition: all .3s ease-in-out;
 }
 
+.btn-lg {
+    line-height: 1.6em;
+}
+
 .btn-default {
     border: 1px solid $link-color;
     color: $link-color;
@@ -202,6 +206,11 @@ a.list-group-item:hover, a.list-group-item:focus {
     outline: 0;
     color: #000;
     background-color: $link-hover-color;
+}
+
+.btn svg {
+    float: left;
+    margin-right: 0.5em;
 }
 
 ul.banner-social-buttons {
