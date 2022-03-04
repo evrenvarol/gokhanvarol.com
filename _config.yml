@@ -44,8 +44,6 @@ social:
     url: https://youtube.com/gokhan_varol
   - title: soundcloud
     url: https://soundcloud/gokhan_varol
-  - title: google-plus
-    url: https://plus.google.com/107015095174650081571
 
 # Social metadata (JSON-LD)
 socialmeta:
@@ -54,7 +52,6 @@ socialmeta:
     - https://twitter.com/gokhan_varol
     - https://facebook.com/gokhan_varol
     - https://youtube.com/gokhan_varol
-    - https://plus.google.com/107015095174650081571
     - https://soundcloud/gokhan_varol
     - https://www.instagram.com/gokhan_varol/
 
