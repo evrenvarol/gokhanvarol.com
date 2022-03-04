@@ -2,7 +2,7 @@
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     {% if page.url == "/" or page.url == "/en/" or page.url == "/tr/" %}
         {% assign seo_homepage = true %}
@@ -38,10 +38,12 @@
     {% assign seo_links = site.socialmeta.links %}
 
     <meta name="description" content="{{ seo_description }}">
+    <meta name="robots" content="index, follow">
     <meta name="author" content="{{ site.author.name }}">
     <title>{{ seo_site_title }}</title>
 
-    <link rel="author" href="https://plus.google.com/107015095174650081571"/>
+    <link rel="author" href="{{ seo_url }}/en/#about" hreflang="en"/>
+    <link rel="author" href="{{ seo_url }}/tr/#about" hreflang="tr"/>
     <link rel="alternate" href="{{ seo_url }}/tr" hreflang="tr" />
     <link rel="alternate" href="{{ seo_url }}/en" hreflang="en" />
 
@@ -127,7 +129,11 @@
     <!-- Custom Fonts -->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
-    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700|Anonymous+Pro:400,700|Oswald:400,700|Roboto:400,500,700|Roboto+Slab:400,700|Ubuntu:400,500,700|Merriweather:400,300,300italic,400italic,700,700italic,900,900italic|Kanit:400,600,700&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+    <!--<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700|Anonymous+Pro:400,700|Oswald:400,700|Roboto:400,500,700|Roboto+Slab:400,700|Ubuntu:400,500,700|Merriweather:400,300,300italic,400italic,700,700italic,900,900italic|Kanit:400,600,700&subset=latin,latin-ext" rel="stylesheet" type="text/css">-->
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;1,300&family=Oswald:wght@400;700&display=swap" rel="stylesheet">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
