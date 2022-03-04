@@ -9,7 +9,9 @@ img: nadir-gokturk-suslu-saksi-sokagi_thumb.jpg
 thumb: nadir-gokturk-suslu-saksi-sokagi_thumb.jpg
 itunes: https://itunes.apple.com/tr/album/suslu-saks-sokag/id791591985
 discogs: http://www.discogs.com/release/7910783
-tags: 
+amazon: https://amzn.to/3MkxaH5
+spotify: https://open.spotify.com/album/3ZcTJobgSEvYRDez3RMQuk?si=p79ZZzKaR_-zlLauxvRgoQ
+tags:
 - Piano
 ---
 
@@ -44,4 +46,3 @@ tags:
 </div>
 
 ---
-
