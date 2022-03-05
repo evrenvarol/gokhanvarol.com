@@ -12,7 +12,7 @@ discogs: http://www.discogs.com/release/7953456
 spotify: https://open.spotify.com/album/3PL4ItSOToXRiFC84Z9Flv?si=xcqSgyU7SJC4rMLt5UFkSw
 amazon: https://amzn.to/3INFSLE
 tags:
-- Arrangement
+- Düzenleme
 ---
 
 ### Terk Ederken
@@ -22,5 +22,5 @@ tags:
 </div>
 
 ---
-Lyrics/Music: Deniz Akın
-Arrangement: Gökhan Varol
+Söz / Müzik: Deniz Akın
+Düzenleme: Gökhan Varol

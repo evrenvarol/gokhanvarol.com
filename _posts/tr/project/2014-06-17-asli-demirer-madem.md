@@ -12,7 +12,7 @@ discogs: http://www.discogs.com/release/5857389
 amazon: https://amzn.to/3pHRuIO
 spotify: https://open.spotify.com/album/6bsFoWLvWAin2v0ikSO8Lu?si=W7pednE_TjKJGKAR3t-koA
 tags:
-- Arrangement
+- Düzenleme
 ---
 
 ### Madem
