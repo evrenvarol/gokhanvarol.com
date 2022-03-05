@@ -1,10 +1,10 @@
 ---
 layout: project
 categories:
- - en
+ - tr
  - project
-lang: en
-title: Nida San - Sansim Var
+lang: tr
+title: Nida Şan - Şansım Var
 img: nida-san-sansim-var_thumb.jpg
 thumb: nida-san-sansim-var_thumb.jpg
 itunes: https://itunes.apple.com/tr/album/sans-m-var-single/id843538168
@@ -22,9 +22,9 @@ tags:
 </div>
 
 ---
-Ud: Altug Oncu
-Piano: Gokhan Varol
-Guitar: Metehan Koseoglu
-Drums: Onur Soydemir
-Bass Guitar: Gorkem Oker
-Vocals: Berna Anter - Pinar Cubukcu - Hande San
+Ud: Altuğ Öncü
+Piano: Gökhan Varol
+Gitar: Metehan Köseoğlu
+Davul: Onur Soydemir
+Bas Gitar: Görkem Oker
+Vokal: Berna Anter - Pınar Çubukçu - Hande Şan

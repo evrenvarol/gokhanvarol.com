@@ -1,10 +1,10 @@
 ---
 layout: project
 categories:
- - en
+ - tr
  - project
-lang: en
-title: Husnu Arkan - Yalniz Degiliz
+lang: tr
+title: Hüsnü Arkan - Yalnız Değiliz
 img: husnu-arkan-yalniz-degiliz_thumb.jpg
 thumb: husnu-arkan-yalniz-degiliz_thumb.jpg
 itunes: https://itunes.apple.com/tr/album/yaln-z-degiliz/id895920123
@@ -15,29 +15,29 @@ tags:
 - Piano
 ---
 
-### Yagmurlar
+### Yağmurlar
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="420" height="315" src="https://www.youtube.com/embed/vzE5i6m4kG0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ---
-Piano: Gokhan Varol
+Piano: Gökhan Varol
 
-### Bulusmak Uzere
+### Buluşmak Üzere
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="420" height="315" src="https://www.youtube.com/embed/rKj1JlmjhTY" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ---
-Piano: Gokhan Varol
+Piano: Gökhan Varol
 
-### Yalniz Degiliz
+### Yalnız Değiliz
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="420" height="315" src="https://www.youtube.com/embed/HuhSIZ5YvVQ" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ---
-Piano: Gokhan Varol
+Piano: Gökhan Varol

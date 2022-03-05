@@ -1,10 +1,10 @@
 ---
 layout: project
 categories:
- - en
+ - tr
  - project
-lang: en
-title: Hakan Altun - Ask Lutfen Gel
+lang: tr
+title: Hakan Altun - Aşk Lütfen Gel
 img: hakan-altun-ask-lutfen-gel_thumb.jpg
 thumb: hakan-altun-ask-lutfen-gel_thumb.jpg
 itunes: https://itunes.apple.com/tr/album/ask-lutfen-gel/id978683489
@@ -13,23 +13,23 @@ spotify: https://open.spotify.com/album/0UmxOwUiVKnLVv06yKgkLw?si=V6JWmOcTSTGWKX
 amazon: https://amzn.to/36Zf0KB
 tags:
 - Piano
-- Arrangement
+- Düzenleme
 ---
 
-### Cozemedim
+### Çözemedim
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="420" height="315" src="https://www.youtube.com/embed/NXDd28KgX0w" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ---
-Arrangement / Piano: Gokhan Varol
+Düzenleme / Piano: Gökhan Varol
 
-### Ask Bufe
+### Aşk Büfe
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="420" height="315" src="https://www.youtube.com/embed/UfbqH5UQoEc" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ---
-Arrangement: Gokhan Varol
+Arrangement: Gökhan Varol

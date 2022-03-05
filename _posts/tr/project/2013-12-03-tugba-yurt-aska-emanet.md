@@ -1,10 +1,10 @@
 ---
 layout: project
 categories:
- - en
+ - tr
  - project
-lang: en
-title: Tugba Yurt - Ask'a Emanet
+lang: tr
+title: Tuğba Yurt - Aşk'a Emanet
 img: tugba-yurt-aska-emanet_thumb.jpg
 thumb: tugba-yurt-aska-emanet_thumb.jpg
 itunes: https://itunes.apple.com/tr/album/aska-emanet-ep/id777410928
@@ -13,7 +13,7 @@ spotify: https://play.spotify.com/album/59LIqMjeKThlifTicttcjc
 discogs: http://www.discogs.com/release/6092963
 amazon: https://amzn.to/3sMqcD3
 tags:
-- Arrangement
+- Düzenleme
 - Mix
 - Piano
 ---
@@ -25,9 +25,9 @@ tags:
 </div>
 
 ---
-Lyrics: Aytac Ozgumus & Levent Sevinc
-Music: Aytac Ozgumus
-Arrangement / Mix: Gokhan Varol.
+Söz: Aytaç Özgümüş & Levent Sevinç
+Müzik: Aytaç Özgümüş
+Düzenleme / Mix: Gökhan Varol
 
 ### Pişmanım
 
@@ -36,7 +36,7 @@ Arrangement / Mix: Gokhan Varol.
 </div>
 
 ---
-Mix / Piano: Gokhan Varol
+Mix / Piano: Gökhan Varol
 
 ### Dilek
 
@@ -45,4 +45,4 @@ Mix / Piano: Gokhan Varol
 </div>
 
 ---
-Mix: Gokhan Varol
+Mix: Gökhan Varol

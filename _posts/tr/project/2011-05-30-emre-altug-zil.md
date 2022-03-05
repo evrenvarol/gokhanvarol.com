@@ -1,10 +1,10 @@
 ---
 layout: project
 categories:
- - en
+ - tr
  - project
-lang: en
-title: Emre Altug - Zil
+lang: tr
+title: Emre Altuğ - Zil
 img: emre-altug-zil_thumb.jpg
 thumb: emre-altug-zil_thumb.jpg
 itunes: https://itunes.apple.com/tr/album/zil/id489637940
@@ -15,11 +15,11 @@ tags:
 - Piano
 ---
 
-### Hastasiyim
+### Hastasıyım
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="420" height="315" src="https://www.youtube.com/embed/47wT5wt1NL0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ---
-Piano / Mix: Gokhan Varol.
+Piano / Mix: Gökhan Varol.

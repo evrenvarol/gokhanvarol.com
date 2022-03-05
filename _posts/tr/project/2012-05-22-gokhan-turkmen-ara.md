@@ -1,10 +1,10 @@
 ---
 layout: project
 categories:
- - en
+ - tr
  - project
-lang: en
-title: Gokhan Turkmen - Ara
+lang: tr
+title: Gökhan Türkmen - Ara
 img: gokhan-turkmen-ara_thumb.jpg
 thumb: gokhan-turkmen-ara_thumb.jpg
 itunes: https://itunes.apple.com/tr/album/ara-ep/id598300243
@@ -22,4 +22,4 @@ tags:
 </div>
 
 ---
-Piano: Gokhan Varol
+Piano: Gökhan Varol

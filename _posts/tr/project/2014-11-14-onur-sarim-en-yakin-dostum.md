@@ -1,10 +1,10 @@
 ---
 layout: project
 categories:
- - en
+ - tr
  - project
-lang: en
-title: Onur Sarim - En Yakin Dostum
+lang: tr
+title: Onur Sarım - En Yakın Dostum
 img: onur-sarim-en-yakin-dostum_thumb.jpg
 thumb: onur-sarim-en-yakin-dostum_thumb.jpg
 itunes: https://itunes.apple.com/tr/album/en-yak-n-dostum-single/id943791309
@@ -15,16 +15,16 @@ tags:
 - Piano
 ---
 
-### En Yakin Dostum
+### En Yakın Dostum
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="420" height="315" src="https://www.youtube.com/embed/MDH5lDoXzt0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ---
-Bass Guitar: Deniz Beydili
-Piano: Gokhan Varol
-Ney: Eyup Hamis
-Guitars: Metehan Koseoglu & Onur Sarim
-Vocals: Murat Aziret
-Ud: Metehan Koseoglu
+Bas Gitar: Deniz Beydili
+Piano: Gökhan Varol
+Ney: Eyüp Hamis
+Gitar: Metehan Köseoğlu & Onur Sarım
+Vokal: Murat Aziret
+Ud: Metehan Köseoğlu

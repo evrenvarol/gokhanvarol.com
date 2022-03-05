@@ -1,10 +1,10 @@
 ---
 layout: project
 categories:
- - en
+ - tr
  - project
-lang: en
-title: Hakan Altun - Senden Sonrasi
+lang: tr
+title: Hakan Altun - Senden Sonrası
 img: hakan-altun-senden-sonrasi_thumb.jpg
 thumb: hakan-altun-senden-sonrasi_thumb.jpg
 itunes: https://itunes.apple.com/tr/album/senden-sonras/id524874318
@@ -13,26 +13,26 @@ amazon: https://amzn.to/3sKoGBf
 spotify: https://open.spotify.com/album/2Jk5R1RQhRiz2PQ7tD15dx?si=CefFKlQzR0u63iXmsuVWHg
 tags:
 - Piano
-- Arrangement
+- Düzenleme
 ---
 
-### Ben Zaten Olmustum
+### Ben Zaten Ölmüştüm
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="420" height="315" src="https://www.youtube.com/embed/2yFWPbNrcuE" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ---
-Arrangement: Gokhan Varol
+Düzenleme: Gökhan Varol
 
-### Ask Sokagi
+### Aşk Sokağı
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="420" height="315" src="https://www.youtube.com/embed/Mffs2G8qNAo" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ---
-Arrangement: Gokhan Varol
+Düzenleme: Gökhan Varol
 
 ### Hadi Geri Ver
 
@@ -41,4 +41,4 @@ Arrangement: Gokhan Varol
 </div>
 
 ---
-Piano: Gokhan Varol
+Piano: Gökhan Varol

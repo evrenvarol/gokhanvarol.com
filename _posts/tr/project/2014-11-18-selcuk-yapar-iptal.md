@@ -1,10 +1,10 @@
 ---
 layout: project
 categories:
- - en
+ - tr
  - project
-lang: en
-title: Selcuk Yapar - Iptal
+lang: tr
+title: Selçuk Yapar - İptal
 img: selcuk-yapar-iptal_thumb.jpg
 thumb: selcuk-yapar-iptal_thumb.jpg
 itunes: https://itunes.apple.com/tr/album/iptal-single/id963201051
@@ -15,14 +15,14 @@ tags:
 - Piano
 ---
 
-### Iptal
+### İptal
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="420" height="315" src="https://www.youtube.com/embed/NBWJLL-ezDg" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ---
-- Lyrics: Iskender Kulekci
-- Music: Orcun Karamuk
-- Arrangement: Metehan Koseoglu
-- Piano: Gokhan Varol
+- Söz: İskender Külekçi
+- Müzik: Orçun Karamuk
+- Düzenleme: Metehan Köseoğlu
+- Piano: Gökhan Varol

@@ -1,10 +1,10 @@
 ---
 layout: project
 categories:
- - en
+ - tr
  - project
-lang: en
-title: Ezginin Gunlugu - Seni Dusunmek
+lang: tr
+title: Ezginin Günlüğü - Seni Düşünmek
 img: ezginin-gunlugu-ceyrek_thumb.jpg
 thumb: ezginin-gunlugu-ceyrek_thumb.jpg
 itunes: https://itunes.apple.com/tr/album/ceyrek/id587680230
@@ -15,13 +15,13 @@ tags:
 - Piano
 ---
 
-### Seni Dusunmek
+### Seni Düşünmek
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="420" height="315" src="https://www.youtube.com/embed/RX6OYb5VD6M" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ---
-- Music: Nadir Gokturk
-- Fagot: Can Gokturk
-- Piano: Gokhan Varol
+- Müzik: Nadir Göktürk
+- Fagot: Can Göktürk
+- Piano: Gökhan Varol

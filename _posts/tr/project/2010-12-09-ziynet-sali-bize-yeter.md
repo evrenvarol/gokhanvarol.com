@@ -1,9 +1,9 @@
 ---
 layout: project
 categories:
- - en
+ - tr
  - project
-lang: en
+lang: tr
 title: Ziynet Sali - Bize Yeter
 img: ziynet-sali-bize-yeter_thumb.jpg
 thumb: ziynet-sali-bize-yeter_thumb.jpg
@@ -22,4 +22,4 @@ tags:
 </div>
 
 ---
-Piano: Gokhan Varol
+Piano: Gökhan Varol

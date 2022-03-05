@@ -1,10 +1,10 @@
 ---
 layout: project
 categories:
- - en
+ - tr
  - project
-lang: en
-title: Husnu Arkan - Kirik Hava
+lang: tr
+title: Hüsnü Arkan - Kırık Hava
 img: husnu-arkan-kirik-hava_thumb.jpg
 thumb: husnu-arkan-kirik-hava_thumb.jpg
 itunes: https://itunes.apple.com/tr/album/k-r-k-hava/id1036857126
@@ -22,4 +22,4 @@ tags:
 </div>
 
 ---
-Hammond Organ: Gokhan Varol
+Hammond Organ: Gökhan Varol

@@ -1,10 +1,10 @@
 ---
 layout: project
 categories:
- - en
+ - tr
  - project
-lang: en
-title: Merih Ermakastar - Gidenin Sucu Yok
+lang: tr
+title: Merih Ermakastar - Gidenin Suçu Yok
 img: merih-ermakastar-gidenin-sucu-yok_thumb.jpg
 thumb: merih-ermakastar-gidenin-sucu-yok_thumb.jpg
 itunes: https://itunes.apple.com/tr/album/gidenin-sucu-yok/id654612754
@@ -22,4 +22,4 @@ tags:
 </div>
 
 ---
-Piano: Gokhan Varol
+Piano: Gökhan Varol

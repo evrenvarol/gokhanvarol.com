@@ -1,9 +1,9 @@
 ---
 layout: project
 categories:
- - en
+ - tr
  - project
-lang: en
+lang: tr
 title: Merih Ermakastar - Veresiye Sevda
 img: merih-ermakastar-veresiye-sevda_thumb.jpg
 thumb: merih-ermakastar-veresiye-sevda_thumb.jpg
@@ -23,17 +23,17 @@ tags:
 </div>
 
 ---
-Lyrics-Music: Serdar Ortac - Merih Ermakastar
-Arrangement: Yaman Hadi
-Mix: Gokhan Varol
+Söz / Müzik: Serdar Ortaç - Merih Ermakastar
+Düzenleme: Yaman Hadi
+Mix: Gökhan Varol
 
-### Hic Ozur Bekleme
+### Hiç Özür Bekleme
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="420" height="315" src="https://www.youtube.com/embed/n3ind49Ijhw" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ---
-Lyrics-Music: Merih Ermakastar
-Arrangement: Yaman Hadi
-Piano / Mix: Gokhan Varol
+Söz / Müzik: Merih Ermakastar
+Düzenleme: Yaman Hadi
+Piano / Mix: Gökhan Varol

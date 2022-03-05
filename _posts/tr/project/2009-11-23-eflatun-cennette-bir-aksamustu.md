@@ -1,47 +1,48 @@
 ---
 layout: project
 categories:
- - en
+ - tr
  - project
-lang: en
-title: Eflatun - Cennette Bir Aksamustu
+lang: tr
+title: Eflatun - Cennette Bir Akşamüstü
 img: eflatun-cennette-bir-aksamustu_thumb.jpg
 thumb: eflatun-cennette-bir-aksamustu_thumb.jpg
 itunes: https://itunes.apple.com/gb/album/cennette-bir-aksamustu/id860406932
 discogs: http://www.discogs.com/release/2537371
 spotify: https://open.spotify.com/album/2V2cyo0DnYflljtD0YpXWk?si=hn93HlgNTqaLZ1W2H5Vi8A
 amazon: https://amzn.to/37ajlel
+comments: true
 tags:
 - Piano
 - Fender Rhodes
 ---
 
-### Sarap
+### Şarap
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="420" height="315" src="https://www.youtube.com/embed/HBQGGmoUexA" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ---
-- Piano: Gokhan Varol
+- Piano: Gökhan Varol
 
-### Cennette Bir Aksamustu
+### Cennette Bir Akşamüstü
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="420" height="315" src="https://www.youtube.com/embed/MmLEsUsXhyw" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ---
-- Piano: Gokhan Varol
+- Piano: Gökhan Varol
 
-### Her Askin Sonunda
+### Her Aşkın Sonunda
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="420" height="315" src="https://www.youtube.com/embed/fIR0N6gyADE" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ---
-- Piano: Gokhan Varol
+- Piano: Gökhan Varol
 
 ### Günahlar İşliyorum
 
@@ -50,7 +51,7 @@ tags:
 </div>
 
 ---
-- Piano: Gokhan Varol
+- Piano: Gökhan Varol
 
 ### Bazen
 
@@ -59,7 +60,7 @@ tags:
 </div>
 
 ---
-- Piano: Gokhan Varol
+- Piano: Gökhan Varol
 
 ### Sultan
 
@@ -68,4 +69,4 @@ tags:
 </div>
 
 ---
-- Fender Rhodes: Gokhan Varol
+- Fender Rhodes: Gökhan Varol

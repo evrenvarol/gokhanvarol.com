@@ -1,10 +1,10 @@
 ---
 layout: project
 categories:
- - en
+ - tr
  - project
-lang: en
-title: Gokhan Varol - Akustik Proje
+lang: tr
+title: Gökhan Varol - Akustik Proje
 img: gokhan-varol-akustik-proje_thumb.jpg
 thumb: gokhan-varol-akustik-proje_thumb.jpg
 itunes: https://itunes.apple.com/tr/album/terk-ederken-feat.-deniz-sujana/id878624029

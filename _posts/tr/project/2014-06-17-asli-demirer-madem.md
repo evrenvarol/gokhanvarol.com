@@ -1,10 +1,10 @@
 ---
 layout: project
 categories:
- - en
+ - tr
  - project
-lang: en
-title: Asli Demirer - Madem
+lang: tr
+title: Aslı Demirer - Madem
 img: asli-demirer-madem_thumb.jpg
 thumb: asli-demirer-madem_thumb.jpg
 itunes: https://itunes.apple.com/tr/album/madem-single/id889330743
@@ -22,7 +22,7 @@ tags:
 </div>
 
 ---
-Lyrics/Music: Asli Demirer
-Arrangement: Gokhan Varol
+Söz/Müzik: Aslı Demirer
+Düzenleme: Gökhan Varol
 Mix: C.J. DeVillar
-Mastering: Baris Buyuk
+Mastering: Barış Büyük

@@ -1,9 +1,9 @@
 ---
 layout: project
 categories:
- - en
+ - tr
  - project
-lang: en
+lang: tr
 title: Ziynet Sali - Amman Kuzum
 img: ziynet-sali-amman-kuzum_thumb.png
 thumb: ziynet-sali-amman-kuzum_thumb.jpg
@@ -12,35 +12,35 @@ discogs: http://www.discogs.com/release/2629698
 spotify: https://open.spotify.com/album/5Zq4IVAuYWkb23QO5hIK16?si=7uvGF1u8SjKBPT_E5_WO6w
 amazon: https://amzn.to/3vGM0S9
 tags:
-- Arrangement
+- Düzenleme
 ---
 
-### Bu Nasil Veda
+### Bu Nasıl Veda
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="420" height="315" src="https://www.youtube.com/embed/x73Q05V6ALk" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ---
-- Arrangement: Gokhan Varol
+- Düzenleme: Gökhan Varol
 
-### Aski Aldim Askiya
+### Aşkı Aldım Askıya
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="420" height="315" src="https://www.youtube.com/embed/qLcXI68FB1w" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ---
-- Arrangement: Gokhan Varol
+- Düzenleme: Gökhan Varol
 
-### Bosu Bosuna
+### Boşu Boşuna
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="420" height="315" src="https://www.youtube.com/embed/MtjhycFDZDY" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ---
-- Arrangement: Gokhan Varol
+- Düzenleme: Gökhan Varol
 
 ### Alaturka
 
@@ -49,7 +49,7 @@ tags:
 </div>
 
 ---
-- Arrangement: Gokhan Varol
+- Düzenleme: Gökhan Varol
 
 ### Etsi Ksafnika
 
@@ -58,9 +58,9 @@ tags:
 </div>
 
 ---
-- Arrangement: Gokhan Varol
+- Düzenleme: Gökhan Varol
 
 ### Imekala
 
 ---
-- Arrangement: Gokhan Varol
+- Düzenleme: Gökhan Varol
